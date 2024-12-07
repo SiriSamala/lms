@@ -5,6 +5,7 @@ import { AppSidebar } from "@/components/app-sidebar"
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar"
 
 
+
 const inter = Inter({ subsets: ['latin'] })
 
 // export const metadata: Metadata = {
